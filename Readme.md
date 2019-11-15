@@ -2,7 +2,7 @@
 
 This repository contains simple FFT/IFFT functions.
 
-This implementation is based on the algorithms described in chapter 12 of the numerical recipes in C book.
+This implementation is based on the algorithms described in Chapter 12 of the numerical recipes in C book.
 There are slight differences between the original implementation and this one in the following aspects:
 1. The array index starts from zero in this implementation.
 2. A init. function is added to create the initial trigonometric tables for later use.
